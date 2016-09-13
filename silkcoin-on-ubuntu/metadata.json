@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Silkcoin on Ubuntu",
+  "description": "This template deploys a Silkcoin node on a Ubuntu virtual machines.",
+  "summary": "Deploy Silkcoin on Ubuntu to access services running on the blockchain",
+  "githubUsername": "silk-network-developers",
+  "dateUpdated": "2016-09-12"
+}
